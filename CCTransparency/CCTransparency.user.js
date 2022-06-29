@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         cc直播弹幕透明
 // @namespace    https://github.com/Lycreal/UserScripts
-// @version      0.1
+// @version      0.1.1
 // @description  将网易cc直播间的弹幕透明度设置为50%
 // @author       Lycreal
 // @match        *://cc.163.com/*
