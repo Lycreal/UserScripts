@@ -5,6 +5,8 @@
 // @description  将网易cc直播间的弹幕透明度设置为50%
 // @author       Lycreal
 // @match        *://cc.163.com/*
+// @supportURL  https://github.com/Lycreal/UserScripts/issues
+// @license     MIT License
 // @grant        none
 // ==/UserScript==
 
